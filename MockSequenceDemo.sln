@@ -13,6 +13,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		nuget.config = nuget.config
 	EndProjectSection
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MockSequenceDemo.ConsoleAppTest", "MockSequenceDemo.ConsoleAppTest\MockSequenceDemo.ConsoleAppTest.csproj", "{29DBD3A7-0DA7-42DE-B020-54AB0EB7929C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -23,6 +25,10 @@ Global
 		{918DA8D4-7AF6-4DD8-B63E-BF919D6BE43A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{918DA8D4-7AF6-4DD8-B63E-BF919D6BE43A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{918DA8D4-7AF6-4DD8-B63E-BF919D6BE43A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{29DBD3A7-0DA7-42DE-B020-54AB0EB7929C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29DBD3A7-0DA7-42DE-B020-54AB0EB7929C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29DBD3A7-0DA7-42DE-B020-54AB0EB7929C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29DBD3A7-0DA7-42DE-B020-54AB0EB7929C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
